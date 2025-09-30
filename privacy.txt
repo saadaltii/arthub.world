@@ -1,0 +1,50 @@
+Privacy Policy — ArtHub World
+Last updated: September 30, 2025
+Website: https://arthub.world
+Contact: support@arthub.world
+
+1) Overview
+This Privacy Policy explains how ArtHub World (“we”, “us”) collects, uses, and shares information when you use ArtHub (the “Service”). By using the Service, you agree to this Policy.
+
+2) Information We Collect
+- Information you provide: account/profile details, email, messages, support requests, and any content you submit.
+- From Facebook/Instagram (if you connect): only permissions strictly needed for features you enable (for example: public_profile, email, Pages/Inbox access if you explicitly turn those on).
+- Automatic data: device, browser, IP address, usage logs/analytics for security, debugging, and improvement.
+- Cookies and similar tech: used for core functionality, preferences, and analytics.
+
+3) How We Use Information
+- Provide, operate, and improve the Service and its features.
+- Personalize the experience and measure performance.
+- Communicate with you (support, updates, security alerts).
+- Comply with law and platform policies (e.g., Meta/Facebook/Instagram).
+
+4) Sharing
+- Service providers (hosting, analytics, security) under contracts that protect your data.
+- Legal/compliance when required by applicable law or to protect rights and safety.
+- We do not sell personal information.
+
+5) Legal Bases (where applicable)
+- Performance of a contract (to deliver the Service you request).
+- Legitimate interests (analytics, security, fraud prevention).
+- Consent (for optional features; you can withdraw in Facebook settings or in‑app where available).
+
+6) Data Retention
+We keep data only as long as necessary for the purposes described or as required by law, then delete or anonymize it.
+
+7) Your Rights
+Depending on your region, you may have rights to access, correct, delete, or port your data, and to object or restrict certain processing. To exercise rights, email support@arthub.world. You can also review/revoke Facebook permissions in your Facebook account settings.
+
+8) Security
+We implement administrative, technical, and organizational measures to protect data. No method is 100% secure.
+
+9) Children
+The Service is not directed to children under 13 (or older minimum where applicable). We do not knowingly collect data from children.
+
+10) International Transfers
+Data may be processed outside your country. Where required, we use appropriate safeguards to protect personal data during transfers.
+
+11) User Data Deletion
+If you signed in with Facebook/Instagram, you can request deletion of your ArtHub data by emailing support@arthub.world with the subject “Delete my Facebook/Instagram App data” and including your Facebook/Instagram user ID or the email associated with your account. We will delete associated data within 30 days unless retention is required by law, dispute resolution, or security. You can also visit: https://legal.arthub.world/data-deletion.txt (once published).
+
+12) Changes
+We may update this Policy. Material changes will be reflected by updating the “Last updated” date above.

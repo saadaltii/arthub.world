@@ -1,0 +1,25 @@
+User Data Deletion — ArtHub World
+Last updated: September 30, 2025
+Website: https://arthub.world
+Contact: support@arthub.world
+
+If you signed in to ArtHub with Facebook/Instagram, you can request deletion of your data at any time.
+
+How to request deletion
+1) Email support@arthub.world with the subject: Delete my Facebook/Instagram App data.
+2) Include your Facebook/Instagram user ID or the email associated with your Facebook/Instagram account so we can identify your data.
+3) We will confirm and delete associated data within 30 days (or sooner where required by law).
+
+Identity verification
+We may ask for reasonable information to verify you are the account owner before deleting data.
+
+What gets deleted
+We delete or anonymize account profile data, logs linked to your identity, and content stored for your use of ArtHub, unless retention is required for legal obligations, dispute resolution, fraud prevention, or security.
+
+What may be retained
+Minimal records may be retained if necessary to comply with law, resolve disputes, or maintain security (for example, de‑identified logs).
+
+Additional controls
+You can review and revoke permissions you granted to ArtHub from your Facebook account settings.
+
+This document is complementary to our Privacy Policy: https://legal.arthub.world/privacy.txt (once published).
